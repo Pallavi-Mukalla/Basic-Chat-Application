@@ -43,7 +43,7 @@ Open another terminal window for each client:
 javac ClientGUI.java
 java ClientGUI
 ```
-## Each client window will launch with a text area and a message box to chat.
+Each client window will launch with a text area and a message box to chat.
 
 ---
 
