@@ -45,7 +45,9 @@ java ClientGUI
 ```
 ## Each client window will launch with a text area and a message box to chat.
 
-🔧 How It Works
+---
+
+## 🔧 How It Works
 
 **Server**
 - Accepts multiple client connections
@@ -57,7 +59,9 @@ java ClientGUI
 - Uses GUI to send/receive messages
 - Handles message display and user interface
 
-📸 Sample Output
+---
+
+## 📸 Sample Output
 
 ✅ **Server Console**
 ```arduino
@@ -73,7 +77,9 @@ You: Hello! (sent)
 ```
 ![Chat Application Output](Output.png)
 
-🏁 Future Enhancements
+---
+
+## 🏁 Future Enhancements
 
 ✅ Add login with usernames
 
